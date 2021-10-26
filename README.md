@@ -1,8 +1,8 @@
-### vStephanMcTighe 👋
+## vStephanMcTighe 👋
 
 I am an Infrastructure engineer working in the UK, specialising in VMware technologies.  
 
-## About Me!
+### About Me!
 - 🔭 I’m currently working on: vSphere, NSX, Azure, Packer & Terraform.
 - 🌱 I’m currently learning/studing for: Design / Solution Architect Exams (VMware & Azure)
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
