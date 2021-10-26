@@ -1,4 +1,11 @@
-### Hi there 👋
+### vStephanMcTighe 👋
+
+I am an Infrastructure engineer working in the UK specialising in VMware technologies.  
+
+- 🔭 I’m currently working on: vSphere, NSX, Azure, Packer & Terraform.
+- 🌱 I’m currently learning: Design / Solution Architect Exams (VMware & Azure)
+- 📫 How to reach me: Twitter - @vStephanMcTighe
+- 😄 Pronouns: He | Him
 
 <!--
 **smctighevcp/smctighevcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
