@@ -1,4 +1,4 @@
-## vStephanMcTighe 👋
+## Stephan McTighe 👋
 
 I am an Infrastructure engineer working in the UK, specialising in VMware technologies.  
 
