@@ -1,5 +1,4 @@
 ## Stephan McTighe 👋
-<a href="https://twitter.com/vStephanMcTighe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @vStephanMcTighe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I am an Infrastructure engineer working in the UK, specialising in VMware technologies.  
 
