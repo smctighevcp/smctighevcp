@@ -1,4 +1,5 @@
 ## Stephan McTighe 👋
+![image](https://user-images.githubusercontent.com/65562694/152142618-0ff49d34-6049-4d36-82cd-7734c44de4b9.png)
 
 I am an Infrastructure engineer working in the UK, specialising in VMware technologies.  
 
