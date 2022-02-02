@@ -6,7 +6,7 @@ I am an Infrastructure engineer working in the UK, specialising in VMware techno
 - 🔭 I’m currently working on: vSphere, NSX, Azure, Packer & Terraform.
 - 🌱 I’m currently learning/studing for: Design / Solution Architect Exams (VMware & Azure)
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
-- 💬 I blog at [stefanmctighe.com](stefanmctighe.com)
+- 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613)
 - ⚡VMware VCAP Design 2021
 - 😄 Pronouns: He | Him
