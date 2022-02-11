@@ -9,6 +9,7 @@ I am an Infrastructure engineer working in the UK, specialising in VMware techno
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613)
 - ⚡VMware VCAP Design 2021
 - 😄 Pronouns: He | Him
+![image](https://user-images.githubusercontent.com/65562694/153664265-3888f883-6ca2-4d90-9217-226499884f92.png)
 
 <!--
 **smctighevcp/smctighevcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
