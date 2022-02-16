@@ -6,7 +6,7 @@ I am an Infrastructure engineer working in the UK, specialising in VMware techno
 - 🌱 I’m currently learning/studing for: VCAP Deploy / Azure Solution Architect Exam (AZ-305) / Ansible
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
-- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613)
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟
 - ⚡VMware VCAP Design 2021
 - 😄 Pronouns: He | Him
 
