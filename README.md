@@ -1,13 +1,15 @@
 ## Stephan McTighe 👋
-I am an Infrastructure engineer working in the UK, specialising in VMware technologies.  
+I am an Infrastructure focused IT professional working in the UK, specialising in VMware technologies.  
 
 ### About Me!
-- 🔭 I’m currently working on: vSphere, NSX, Azure, Packer & Terraform.
-- 🌱 I’m currently learning/studing for: VCAP Deploy / Azure Solution Architect Exam (AZ-305) / Azure DevOps Pipelines
+- 🔭 I’m currently working on: vSphere, NSX, VCF, Packer & Terraform.
+- 🌱 I’m currently learning/studing for: VCAP Deploy
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟
-- ⚡VMware VCAP Design 2021
+- ⚡ VMware VCAP Design 2021
+- ⚡ VMware VCP DCV 2022
+- ⚡ VMware vSAN Specialist
 - 😄 Pronouns: He | Him
 
 <!--
