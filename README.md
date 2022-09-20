@@ -7,7 +7,7 @@ I am an Infrastructure focused IT professional working in the UK, specialising i
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟
-- ⚡ VMware VCAP Design 2021, VMware VCP DCV 2022, VMware vSAN Specialist 2020
+- ⚡ VMware VCAP Design 2021, VMware VCP Cloud 2022, VMware VCP DCV 2022, VMware vSAN Specialist 2020
 - ⚡ Azure Administrator
 - 😄 Pronouns: He | Him
 
