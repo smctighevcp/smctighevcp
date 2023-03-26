@@ -6,7 +6,7 @@ I am an Infrastructure focused IT professional working in the UK, specialising i
 - 🌱 I’m currently learning/studing for: VCAP Deploy
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
-- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟🌟
 - ⚡ VMware VCAP Design 2022, VCF Specialist 2023 VMware VCP Cloud 2022, VMware VCP DCV 2022, VMware vSAN Specialist 2020
 - ⚡ Azure Administrator
 - 😄 Pronouns: He | Him
