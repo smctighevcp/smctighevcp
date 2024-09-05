@@ -2,12 +2,12 @@
 I am an Infrastructure focused IT professional working in the UK, specialising in VMware technologies.  
 
 ### About Me!
-- 🔭 I’m currently working on: VCF, Design, Automation & Terraform.
-- 🌱 I’m currently learning/studing for: VCDX
+- 🔭 I’m currently working on: VCF, Terraform, PowerVCF PowerShell, Automation & Design
+- 🌱 I’m currently learning/studing for: Terraform Associate, VCDX
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
-- 💬 I blog at [stephanmctighe.com](stephanmctighe.com)
+- 💬 I blog at [stephanmctighe.com](stephanmctighe.com) #TheSmallHumanCloud
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟🌟
-- ⚡ VMware VCIX DCV 2023, VCF Specialist 2023 VMware VCP Cloud 2023, VMware VCP DCV 2023, VMware vSAN Specialist 2020
+- ⚡ VMware VCIX DCV 2024, VCF Specialist 2024 VMware VCP Cloud 2024, VMware VCP DCV 2024, VMware vSAN Specialist 2020
 - ⚡ Azure Administrator
 - 😄 Pronouns: He | Him
 
