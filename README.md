@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=smctighevcp&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&card_width=552&card_height=150&stroke=7EEB2B&fire=EB5454">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=smctighevcp&theme=github&hide_border=true&date_format=%5BY.%5Dn.j&card_width=552&card_height=150&stroke=7EEB2B&fire=EB5454">
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=smctighevcp&theme=github&hide_border=true&date_format=%5BY.%5Dn.j&card_width=552&card_height=150&stroke=7EEB2B&fire=EB5454">
+</picture>
+
 ## Stephan McTighe 👋
 I am an Infrastructure focused IT professional working in the UK, specialising in VMware technologies.  
 
