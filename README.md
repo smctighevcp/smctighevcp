@@ -8,14 +8,23 @@
 I am an Infrastructure focused IT professional working in the UK, specialising in VMware technologies.  
 
 ### About Me!
-- 🔭 I’m currently working on: VCF, Terraform, PowerVCF PowerShell, Automation & Design
-- 🌱 I’m currently learning/studing for: Terraform Associate, VCDX
+- 🔭 I’m currently working on: VCF, Terraform, PowerShell, Automation & Design
+- 🌱 I’m currently learning/studing for: Terraform Associate
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com) #TheSmallHumanCloud
 - ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟🌟
-- ⚡ VMware VCIX DCV 2024, VCF Specialist 2024 VMware VCP Cloud 2024, VMware VCP DCV 2024, VMware vSAN Specialist 2020
-- ⚡ Azure Administrator
 - 😄 Pronouns: He | Him
+
+### Certifications & Accreditations
+- VMware VCIX DCV 2024
+- VCAP Design DCV 2024
+- VCAP Deploy DCV 2024
+- VCF Specialist 2024
+- VMware VCP VCF Administrator 2024
+- VMware VCP VCF Architect 2024
+- VMware VCP Cloud 2024
+- VMware VCP DCV 2024
+- VMware vSAN Specialist 2020
 
 <!--
 **smctighevcp/smctighevcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
