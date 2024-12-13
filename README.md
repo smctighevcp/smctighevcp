@@ -17,9 +17,9 @@ I am an Infrastructure focused IT professional working in the UK, specialising i
 
 ### Certifications & Accreditations
 - VMware VCIX DCV 2024
-- VCAP Design DCV 2024
-- VCAP Deploy DCV 2024
-- VCF Specialist 2024
+- VMware VCAP Design DCV 2024
+- VMware VCAP Deploy DCV 2024
+- VMware VCF Specialist 2024
 - VMware VCP VCF Administrator 2024
 - VMware VCP VCF Architect 2024
 - VMware VCP Cloud 2024
