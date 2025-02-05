@@ -9,10 +9,10 @@ I am an Infrastructure focused IT professional working in the UK, specialising i
 
 ### About Me!
 - 🔭 I’m currently working on: VCF, Terraform, PowerShell, Automation & Design
-- 🌱 I’m currently learning/studing for: Terraform Associate
+- 🌱 I’m currently learning/studing for: Terraform Associate, GitHub Foundations
 - 📫 How to reach me: Twitter - [@vStephanMcTighe](https://twitter.com/vStephanMcTighe)
 - 💬 I blog at [stephanmctighe.com](stephanmctighe.com) #TheSmallHumanCloud
-- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟🌟
+- ⚡ [VMware vExpert](https://vexpert.vmware.com/directory/6613) 🌟🌟🌟🌟🌟
 - 😄 Pronouns: He | Him
 
 ### Certifications & Accreditations
