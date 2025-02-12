@@ -5,7 +5,7 @@
 </picture>
 
 ## Stephan McTighe 👋
-I am an Infrastructure focused IT professional working in the UK, specialising in VMware technologies.  
+Stephan is an infrastructure and automation focused IT professional working in the UK, specialising in VMware technologies.  
 
 ### About Me!
 - 🔭 I’m currently working on: VCF, Terraform, PowerShell, Automation & Design
